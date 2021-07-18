@@ -1,0 +1,12 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    border-bottom: 1px solid #efefef;
+    padding: 10px 80px ;
+    align-items: center;
+
+}
+.title-nav{
+    font-size: 30px;
+}

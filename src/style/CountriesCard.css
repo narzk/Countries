@@ -1,0 +1,21 @@
+img{
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+}
+.name{
+    font-weight: bold;
+    
+}
+.caption-container{
+    direction: ltr;
+    text-align: left;
+}
+.card-container{
+    border: 1px solid #FAFAFA;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
